@@ -1,8 +1,8 @@
 var public =40;
-function test_te()
+function testTe()
 {
 	return a;
 }
-test_te();
+testTe();
 
 console.log('p');
